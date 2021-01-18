@@ -11,5 +11,7 @@ Easy-to-use telegram bot for weight monitoring. It accumulates your weight measu
 
 #### Roadmap
 - notifications
+- rate limiter
+- linter
 - visualisation
 - timezones support
